@@ -1,5 +1,5 @@
 
 **Admin Login Details**
 
-Username: admin
-Password: Password@123
+* Username: admin
+* Password: Password@123
