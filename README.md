@@ -4,6 +4,6 @@ The system also enables the administration of course, room, and student registra
 
 **Admin Login Details**
 * Username: admin
-* Password: Password@123
+* Password: ( check YouTube video )
 #
 ![Screenshot (26)](https://user-images.githubusercontent.com/36708000/203343945-7eca5c5a-986a-4ffd-b7cf-c47f477904ad.png)
